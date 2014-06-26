@@ -1,4 +1,4 @@
-# mini-project #5 : Game - Memory
+# mini-project #5 : game - Memory
 
 import simplegui
 import random
